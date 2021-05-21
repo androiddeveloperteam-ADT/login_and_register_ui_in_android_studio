@@ -1,4 +1,4 @@
-package com.example.ui_learn;
+package com.example.profile_ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
